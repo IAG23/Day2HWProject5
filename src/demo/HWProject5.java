@@ -8,6 +8,8 @@ public class HWProject5 {
 	
 	public void getName () {
 		
+		System.out.println("Pushing code");
+		
 	}
 
 }
